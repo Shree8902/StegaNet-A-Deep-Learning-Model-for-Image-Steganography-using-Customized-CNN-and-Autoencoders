@@ -1,6 +1,7 @@
 # StegaNet-A-Deep-Learning-Model-for-Image-Steganography-using-Customized-CNN-and-Autoencoders
 
-## Abstract -  Image steganalysis is a significant area of
+## Abstract -  
+Image steganalysis is a significant area of
 research that aims at finding any hidden images or
 information within other digital images. In this paper, we
 propose a novel approach combining the Convolutional
